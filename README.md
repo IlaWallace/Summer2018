@@ -1,4 +1,4 @@
-# [Summer 2018 Progress] (https://github.com/IlaWallace/Summer2018/blob/master/Current%20Progress.md)
+[# Summer 2018 Progress] (https://github.com/IlaWallace/Summer2018/blob/master/Current%20Progress.md)
 ***************************
 [Eye Tracking Research Study](https://github.com/IlaWallace/Summer2018/blob/master/Eye%20Tracking%20Research%20Study.md)
 ---------------------------
