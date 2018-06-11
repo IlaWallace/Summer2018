@@ -1,6 +1,6 @@
 # Summer 2018 Progress
 ***************************
-Eye Tracking Research Study
+[Eye Tracking Research Study](https://github.com/IlaWallace/Summer2018/blob/master/Eye%20Tracking%20Research%20Study.md)
 ---------------------------
 This repo contains the information conecerning the progress made of the NC State research project during Summer 2018. This repo does NOT contain code, just the schedule of events when completed and an overview of what was completed. 
 
