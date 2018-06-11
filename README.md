@@ -11,5 +11,8 @@ This repo contains the information conecerning the progress made of the NC State
   
   
 
-------------------------------
-Thursday June 7th - Friday June 8th 2018
+  Calibration of the Eye Tracking Glasses
+  ---------------------------------------
+  Monday June 11th -
+  Calibrating the eye tracking glasses for use on the new board. 
+
