@@ -13,7 +13,7 @@ In order to do this, we will need to find ways to associate how we measure “co
 Questions
 ---------
 
--How does simple coding output problems versus complex tasks such as writing pseudo code chunks affect the cognitive load of the participant’s eye tracking and biometric data during a technical interview setting? 
+How does simple coding output problems versus complex tasks such as writing pseudo code chunks affect the cognitive load of the participant’s eye tracking and biometric data during a technical interview setting? 
 
--Does the participant being monitored affect the cognitive load of the participant?
+Does the participant being monitored affect the cognitive load of the participant?
 
