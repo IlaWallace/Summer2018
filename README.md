@@ -4,7 +4,7 @@ Eye Tracking Research Study
 ---------------------------
 This repo contains the information conecerning the progress made of the NC State research project during Summer 2018. This repo does NOT contain code, just the schedule of events when completed and an overview of what was completed. 
 
-  Set up of the Board
+  [Set up of the Board](IlaWallace/Summer2018/Set up of the board)
   -------------------
   Thursday June 7th - Friday June 8th 2018
   The new board for the eyetracking equipment was successfully installed and ready for use for study.
