@@ -1,10 +1,11 @@
 # Summer 2018 Progress
 ***************************
 Eye Tracking Research Study
-***************************
+---------------------------
 
-Started Thursday June 7th 2018
-------------------------------
+  Set up of the Board
+  -------------------
   
+
 ------------------------------
-Ended Friday June 8th 2018
+Thursday June 7th - Friday June 8th 2018
