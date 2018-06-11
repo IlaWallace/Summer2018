@@ -11,7 +11,7 @@ This repo contains the information conecerning the progress made of the NC State
   #SetUpBoard
   
 
-  Calibration of the Eye Tracking Glasses
+  [Calibration of the Eye Tracking Glasses](https://github.com/IlaWallace/Summer2018/blob/master/Calibration%20of%20the%20Eye%20Tracking%20Glasses.md)
   ---------------------------------------
   Monday June 11th -
   Calibrating the eye tracking glasses for use on the new board. 
