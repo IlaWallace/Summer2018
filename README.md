@@ -6,6 +6,9 @@ This repo contains the information conecerning the progress made of the NC State
 
   Set up of the Board
   -------------------
+  Thursday June 7th - Friday June 8th 2018
+  The new board for the eyetracking equipment was successfully installed and ready for use for study.
+  
   
 
 ------------------------------
