@@ -13,7 +13,11 @@ This repo contains the information conecerning the progress made of the NC State
 
   [Calibration of the Eye Tracking Glasses](https://github.com/IlaWallace/Summer2018/blob/master/Calibration%20of%20the%20Eye%20Tracking%20Glasses.md)
   ---------------------------------------
-  **Monday June 11th - Present**    
-    Learning python to edit code for calculating the distance between two Acro spacers for calibrating the code.
-    Also getting more familiar with the code from our private repo to be able to edit it to work for the new board. 
+  **Monday June 11th - Tuesday June 12th**
+    Learning python to edit code for calculating the distance between two Acro spacers for calibrating the code.  
+    Using codecademy for learning the syntax.  
+    
+  **Wednesday June 13th - Present**  
+    Getting familiar with the code for calibrating and calculating the exact position of the eyes in relation to the board.  
+    This is necessary to be able to edit the code to work for the new board in the conference room. 
 
